@@ -14,8 +14,8 @@ This project showcases the application of OOP principles in design and execution
 ![Paint Brush Applet](https://github.com/lailahamdy/paint-brush-applet/raw/main/java%20project.png)
 
 ## How to Run
-cd java-drawing-applet
-javac ProjectApplet.java
-appletviewer ProjectApplet.java
+cd java-drawing-applet  
+javac ProjectApplet.java  
+appletviewer ProjectApplet.java  
 
 
