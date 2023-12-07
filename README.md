@@ -11,7 +11,7 @@ This project showcases the application of OOP principles in design and execution
 - Fill shapes with color or leave them unfilled.
 - Clear the canvas.
 
-![alt text]((https://github.com/lailahamdy/paint-brush-applet/blob/main/java%20project.png))
+![Paint Brush Applet](https://github.com/lailahamdy/paint-brush-applet/raw/main/java%20project.png)
 
 ## How to Run
 cd java-drawing-applet
